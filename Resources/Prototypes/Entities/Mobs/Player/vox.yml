@@ -1,0 +1,7 @@
+﻿- type: entity
+  save: false
+  name: Urist McVox
+  parent: BaseMobVox
+  id: MobVox
+  components:
+    - type: PotentialPsionic

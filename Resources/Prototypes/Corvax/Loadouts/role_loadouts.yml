@@ -1,0 +1,20 @@
+- type: roleLoadout
+  id: JobIAA
+  groups:
+  - LawyerNeck
+  - LawyerJumpsuit
+  - CommonBackpack
+  - Trinkets
+  - Medals #backmen
+  - Inventory # Corvax-Loadouts
+
+- type: roleLoadout
+  id: JobPilot
+  groups:
+  - SecurityJumpsuit
+  - SecurityBackpack
+  - SecurityOuterClothing
+  - SecurityBelt
+  - SecurityShoes
+  - Trinkets
+  - Inventory # Corvax-Loadouts 
